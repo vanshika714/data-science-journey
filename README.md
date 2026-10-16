@@ -1,2 +1,6 @@
-# data-science-journey
-Learning Data Science & ML - notebooks and projects
+# Data Science Journey
+
+Learning Data Science and Machine Learning from scratch.
+
+## Projects
+- Credit Risk Predictor (in progress)
